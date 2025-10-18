@@ -2,7 +2,7 @@
 
 Portfolio-ready Power BI project analyzing global **data job trends** (job counts, geography, salary levels).
 
-![Dashboard Preview](screenshots/dashboard-screenshot.png)
+
 
 ---
 
