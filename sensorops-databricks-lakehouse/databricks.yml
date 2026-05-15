@@ -1,0 +1,6 @@
+bundle:
+  name: sensorops_databricks_lakehouse
+
+targets:
+  dev:
+    default: true

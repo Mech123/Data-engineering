@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data - do not commit raw/processed datasets
+data/raw/
+data/processed/
+*.zip
+*.csv
+*.parquet
+*.jsonl
+
+# Databricks
+.databricks/
+.bundle/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
