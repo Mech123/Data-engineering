@@ -69,7 +69,6 @@ def main() -> None:
     preview_file(dataset_dir / "PS1.txt")
     preview_file(dataset_dir / "TS1.txt")
     preview_file(dataset_dir / "VS1.txt")
-    preview_file(dataset_dir / "VS1.txt")
     preview_file(dataset_dir / "profile.txt")
 
 
